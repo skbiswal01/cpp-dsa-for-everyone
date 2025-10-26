@@ -19,7 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		D2AFA5612E53755A00DD6E12 /* DSA Preparation */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DSA Preparation"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2AFA5612E53755A00DD6E12 /* DSA Preparation */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = "DSA Preparation"; path = "/Users/skpersonal/Documents/developers space/cpp-dsa-for-everyone/build/Debug/DSA Preparation"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
@@ -58,7 +58,6 @@
 			isa = PBXGroup;
 			children = (
 				D2E285A22D913A5F00FBEB4F /* DSA Preparation */,
-				D2AFA5612E53755A00DD6E12 /* DSA Preparation */,
 			);
 			sourceTree = "<group>";
 		};
